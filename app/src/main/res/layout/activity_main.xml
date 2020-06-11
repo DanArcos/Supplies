@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp">
+
+    <CheckBox android:id="@+id/checkbox_bison"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/boistrous_bison"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginBottom="24dp"/>
+
+    <CheckBox android:id="@+id/checkbox_sleepy_sheepy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sleepy_sheepy"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginBottom="24dp"/>
+
+    <CheckBox android:id="@+id/checkbox_bear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/see_bear"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginBottom="24dp"/>
+
+    <CheckBox android:id="@+id/checkbox_kitters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kitters_meow_meow"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginBottom="24dp"/>
+
+    <CheckBox android:id="@+id/checkbox_chipmunk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/chippy_chip_chipmunk"
+        android:onClick="onCheckboxClicked"/>
+
+
+</LinearLayout>

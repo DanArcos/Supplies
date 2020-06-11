@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Supplies!</string>
+
+    <string name="boistrous_bison">Boistrous Bison</string>
+    <string name="see_bear">See a bear bear</string>
+    <string name="sleepy_sheepy">Sleepy sheepy</string>
+    <string name="kitters">Kitters</string>
+    <string name="chippy_chip_chipmunk">Chippy chip chipmunk</string>
+
+    <string name="enter_the_magical_password_neebs">Enter the magical password neebs!</string>
+    <string name="password_required_neebs">PASSWORD REQUIRED NEEBS!</string>
+    <string name="kitters_meow_meow">Kitters - MEOW MEOW</string>
+    <string name="login">login</string>
+    <string name="Enter_pw_neebs">Enter the password neebs!!!</string>
+    <string name="try_password">Try Password</string>
+    <string name="i_no_no">I no no!!</string>
+    <string name="pw_required">Password Required</string>
+
+    <string name="unlock_password">pushpushpushpush</string>
+
+</resources>
