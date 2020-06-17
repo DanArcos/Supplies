@@ -51,8 +51,6 @@ public class PasswordDialog extends AppCompatDialogFragment {
                 PasswordDialog.this.getDialog().cancel();
             }
         });
-
         return builder.create();
-
     }
 }

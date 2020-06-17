@@ -2,6 +2,7 @@
 
     <string name="app_name">Supplies!</string>
 
+    <string name="yellowstone_checklist">Yellowstone Checklist</string>
     <string name="boistrous_bison">Boistrous Bison</string>
     <string name="see_bear">See a bear bear</string>
     <string name="sleepy_sheepy">Sleepy sheepy</string>
@@ -18,5 +19,21 @@
     <string name="pw_required">Password Required</string>
 
     <string name="unlock_password">pushpushpushpush</string>
+
+
+    <string name="a_Congratulations">Congratulations!</string>
+    <string name="b_you_made_it">You made it to the end!</string>
+    <string name="c_i_hope_this_was_fun_for_you">I hope you made many animal friends in this adventure</string>
+    <string name="d_message">Speaking of adventures, you and I have been on a bunch already!</string>
+    <string name="e_message">Remember that one?!</string>
+
+    <string name="entire_message">The cakes we (you) will make. The challenges we will have face. I couldn\'t see doing it </string>
+
+
+    <string name="test">I\'ll need a familiar to help me out with this one thing!</string>
+
+
+    <string name="more_more">MORE MORE</string>
+
 
 </resources>
